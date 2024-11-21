@@ -1,2 +1,2 @@
-echo "Conflict line from feature-a" >> feature-a.txt
+echo "Conflict line from master" >> feature-a.txt
 
