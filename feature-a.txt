@@ -1,0 +1,2 @@
+echo "Conflict line from master" >> feature-a.txt
+
